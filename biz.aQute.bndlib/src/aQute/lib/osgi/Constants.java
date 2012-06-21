@@ -90,8 +90,6 @@ public interface Constants {
 	String							NOEXTRAHEADERS								= "-noextraheaders";
 	String							NOMANIFEST									= "-nomanifest";
 	String							NOUSES										= "-nouses";
-	@Deprecated
-	String							NOPE										= "-nope";
 	String							NOBUNDLES									= "-nobundles";
 	String							PEDANTIC									= "-pedantic";
 	String							PLUGIN										= "-plugin";
